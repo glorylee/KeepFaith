@@ -1,0 +1,7 @@
+J:\KeepFaith\Release\KeepFaith.Tests.dll.config
+J:\KeepFaith\Release\KeepFaith.Tests.XML
+J:\KeepFaith\Release\KeepFaith.Tests.dll
+J:\KeepFaith\Release\KeepFaith.Tests.pdb
+J:\KeepFaith\KeepFaith.Tests\obj\Debug\KeepFaith.Tests.csprojResolveAssemblyReference.cache
+J:\KeepFaith\KeepFaith.Tests\obj\Debug\KeepFaith.Tests.dll
+J:\KeepFaith\KeepFaith.Tests\obj\Debug\KeepFaith.Tests.pdb

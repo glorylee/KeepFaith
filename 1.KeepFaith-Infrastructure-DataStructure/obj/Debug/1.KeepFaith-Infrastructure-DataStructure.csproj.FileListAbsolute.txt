@@ -1,0 +1,11 @@
+J:\Study\KeepFaith\1.KeepFaith-Infrastructure-DataStructure\bin\Debug\1.KeepFaith-Infrastructure-DataStructure.dll
+J:\Study\KeepFaith\1.KeepFaith-Infrastructure-DataStructure\bin\Debug\1.KeepFaith-Infrastructure-DataStructure.pdb
+J:\Study\KeepFaith\1.KeepFaith-Infrastructure-DataStructure\obj\Debug\1.KeepFaith-Infrastructure-DataStructure.csprojResolveAssemblyReference.cache
+J:\Study\KeepFaith\1.KeepFaith-Infrastructure-DataStructure\obj\Debug\1.KeepFaith-Infrastructure-DataStructure.dll
+J:\Study\KeepFaith\1.KeepFaith-Infrastructure-DataStructure\obj\Debug\1.KeepFaith-Infrastructure-DataStructure.pdb
+J:\KeepFaith\Release\1.KeepFaith-Infrastructure-DataStructure.XML
+J:\KeepFaith\Release\1.KeepFaith-Infrastructure-DataStructure.dll
+J:\KeepFaith\Release\1.KeepFaith-Infrastructure-DataStructure.pdb
+J:\KeepFaith\1.KeepFaith-Infrastructure-DataStructure\obj\Debug\1.KeepFaith-Infrastructure-DataStructure.csprojResolveAssemblyReference.cache
+J:\KeepFaith\1.KeepFaith-Infrastructure-DataStructure\obj\Debug\1.KeepFaith-Infrastructure-DataStructure.dll
+J:\KeepFaith\1.KeepFaith-Infrastructure-DataStructure\obj\Debug\1.KeepFaith-Infrastructure-DataStructure.pdb

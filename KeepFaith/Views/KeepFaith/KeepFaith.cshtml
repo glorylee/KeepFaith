@@ -1,0 +1,53 @@
+﻿
+@{
+    Layout = null;
+}
+@*@section featured {
+    <div class="jumbotron">
+        <div class="container">
+            <h1>欢迎你.</h1>
+            <h2>@ViewBag.Message</h2>
+            <p>
+                To learn more about ASP.NET MVC visit
+                <a href="http://asp.net/mvc" title="ASP.NET MVC Website">http://asp.net/mvc</a>.
+                The page features <mark>videos, tutorials, and samples</mark> to help you get the most from ASP.NET MVC.
+                If you have any questions about ASP.NET MVC visit
+            </p>
+            <a class="btn btn-large btn-success" href="http://forums.asp.net/1146.aspx/1?MVC" title="ASP.NET MVC Forum">our forums</a>.
+        </div>
+    </div>
+}*@
+<!-- Example row of columns -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>@ViewBag.Title  Keep Faith</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="~/Content/bootstrap.css" rel="stylesheet">
+
+    @Html.Partial("_html5shiv")
+</head>
+<body>
+    <div class="jumbotron">
+                <h2>Getting Started</h2>
+                ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
+                enables a clean separation of concerns and that gives you full control over markup
+                for enjoyable, agile development. ASP.NET MVC includes many features that enable
+                fast, TDD-friendly development for creating sophisticated applications that use
+                the latest web standards.
+                <p>
+                    <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=245151">Learn more &raquo;</a>
+                </p>
+            
+        <div class="footer">
+            <p>&copy; Company 2013</p>
+        </div>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+</body>
+</html>

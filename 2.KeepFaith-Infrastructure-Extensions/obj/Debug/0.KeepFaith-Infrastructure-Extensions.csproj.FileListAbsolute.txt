@@ -1,0 +1,11 @@
+J:\Study\KeepFaith\2.KeepFaith-Infrastructure-Extensions\bin\Debug\2.KeepFaith-Infrastructure-Extensions.dll
+J:\Study\KeepFaith\2.KeepFaith-Infrastructure-Extensions\bin\Debug\2.KeepFaith-Infrastructure-Extensions.pdb
+J:\Study\KeepFaith\2.KeepFaith-Infrastructure-Extensions\obj\Debug\0.KeepFaith-Infrastructure-Extensions.csprojResolveAssemblyReference.cache
+J:\Study\KeepFaith\2.KeepFaith-Infrastructure-Extensions\obj\Debug\2.KeepFaith-Infrastructure-Extensions.dll
+J:\Study\KeepFaith\2.KeepFaith-Infrastructure-Extensions\obj\Debug\2.KeepFaith-Infrastructure-Extensions.pdb
+J:\KeepFaith\Release\2.KeepFaith-Infrastructure-Extensions.XML
+J:\KeepFaith\Release\2.KeepFaith-Infrastructure-Extensions.dll
+J:\KeepFaith\Release\2.KeepFaith-Infrastructure-Extensions.pdb
+J:\KeepFaith\2.KeepFaith-Infrastructure-Extensions\obj\Debug\0.KeepFaith-Infrastructure-Extensions.csprojResolveAssemblyReference.cache
+J:\KeepFaith\2.KeepFaith-Infrastructure-Extensions\obj\Debug\2.KeepFaith-Infrastructure-Extensions.dll
+J:\KeepFaith\2.KeepFaith-Infrastructure-Extensions\obj\Debug\2.KeepFaith-Infrastructure-Extensions.pdb

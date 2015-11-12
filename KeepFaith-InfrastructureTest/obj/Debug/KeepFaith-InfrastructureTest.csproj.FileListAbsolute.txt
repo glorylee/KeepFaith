@@ -1,0 +1,13 @@
+J:\Study\KeepFaith\KeepFaith-InfrastructureTest\bin\Debug\KeepFaith-InfrastructureTest.dll
+J:\Study\KeepFaith\KeepFaith-InfrastructureTest\bin\Debug\KeepFaith-InfrastructureTest.pdb
+J:\Study\KeepFaith\KeepFaith-InfrastructureTest\bin\Debug\1.KeepFaith-Infrastructure-DataStructure.dll
+J:\Study\KeepFaith\KeepFaith-InfrastructureTest\bin\Debug\1.KeepFaith-Infrastructure-DataStructure.pdb
+J:\Study\KeepFaith\KeepFaith-InfrastructureTest\obj\Debug\KeepFaith-InfrastructureTest.csprojResolveAssemblyReference.cache
+J:\Study\KeepFaith\KeepFaith-InfrastructureTest\obj\Debug\KeepFaith-InfrastructureTest.dll
+J:\Study\KeepFaith\KeepFaith-InfrastructureTest\obj\Debug\KeepFaith-InfrastructureTest.pdb
+J:\KeepFaith\Release\KeepFaith-InfrastructureTest.XML
+J:\KeepFaith\Release\KeepFaith-InfrastructureTest.dll
+J:\KeepFaith\Release\KeepFaith-InfrastructureTest.pdb
+J:\KeepFaith\KeepFaith-InfrastructureTest\obj\Debug\KeepFaith-InfrastructureTest.csprojResolveAssemblyReference.cache
+J:\KeepFaith\KeepFaith-InfrastructureTest\obj\Debug\KeepFaith-InfrastructureTest.dll
+J:\KeepFaith\KeepFaith-InfrastructureTest\obj\Debug\KeepFaith-InfrastructureTest.pdb

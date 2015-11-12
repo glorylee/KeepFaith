@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0.KeepFaith-Interface", "0.KeepFaith-Interface", "{BD3DD8B6-5120-4176-8DB7-8CD0628B0F5C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.KeepFaith-UnitTest", "1.KeepFaith-UnitTest", "{B1F61AAA-D128-4769-8717-304D46AB4D8D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.KeepFaith-Infrastructure", "2.KeepFaith-Infrastructure", "{9CFF8CD7-2302-4E60-8D2D-AB707F33E1A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.KeepFaith-Application", "4.KeepFaith-Application", "{FFDDABBD-A07F-4008-B8B0-2FCBF470ADD1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.KeepFaith-Services", "5.KeepFaith-Services", "{87857C12-F10B-4CDE-938A-4EAD5F77AA9A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6.KeepFaith-Domains", "6.KeepFaith-Domains", "{E680205E-56D0-41F0-81DF-ED194B6FD2AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7.KeepFaith-Repositorys", "7.KeepFaith-Repositorys", "{D9ED3FB4-37CB-4222-A34A-93E2BFF3D64F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9.KeepFaith-DePloy", "9.KeepFaith-DePloy", "{9E27B1B4-1184-49CB-9F02-53308CCC2B61}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8.KeepFaith-Framework", "8.KeepFaith-Framework", "{A36CE620-5A34-4D1A-A9FD-342DE247861E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.KeepFaith.UI", "3.KeepFaith.UI", "{7B7EB82F-9DD3-4083-AF50-9BF108BFE702}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.KeepFaith-Infrastructure-Extensions", "2.KeepFaith-Infrastructure-Extensions\0.KeepFaith-Infrastructure-Extensions.csproj", "{12B14403-6794-4C2F-A0CF-3C209333C14E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.KeepFaith-Infrastructure-DataStructure", "1.KeepFaith-Infrastructure-DataStructure\1.KeepFaith-Infrastructure-DataStructure.csproj", "{67764976-C306-47A2-A88E-7243B4569E68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeepFaith-InfrastructureTest", "KeepFaith-InfrastructureTest\KeepFaith-InfrastructureTest.csproj", "{E6098A8F-F318-488C-8C76-9A0EABDC6AFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeepFaith", "KeepFaith\KeepFaith.csproj", "{B7B4BF74-CE69-451B-93D7-3876CC3DCA1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeepFaith.Tests", "KeepFaith.Tests\KeepFaith.Tests.csproj", "{406ED1B0-E8E0-4F1C-B1AC-924E19F099E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12B14403-6794-4C2F-A0CF-3C209333C14E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B14403-6794-4C2F-A0CF-3C209333C14E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B14403-6794-4C2F-A0CF-3C209333C14E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B14403-6794-4C2F-A0CF-3C209333C14E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67764976-C306-47A2-A88E-7243B4569E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67764976-C306-47A2-A88E-7243B4569E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67764976-C306-47A2-A88E-7243B4569E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67764976-C306-47A2-A88E-7243B4569E68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6098A8F-F318-488C-8C76-9A0EABDC6AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6098A8F-F318-488C-8C76-9A0EABDC6AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6098A8F-F318-488C-8C76-9A0EABDC6AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6098A8F-F318-488C-8C76-9A0EABDC6AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7B4BF74-CE69-451B-93D7-3876CC3DCA1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B4BF74-CE69-451B-93D7-3876CC3DCA1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B4BF74-CE69-451B-93D7-3876CC3DCA1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B4BF74-CE69-451B-93D7-3876CC3DCA1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{406ED1B0-E8E0-4F1C-B1AC-924E19F099E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406ED1B0-E8E0-4F1C-B1AC-924E19F099E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406ED1B0-E8E0-4F1C-B1AC-924E19F099E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406ED1B0-E8E0-4F1C-B1AC-924E19F099E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{12B14403-6794-4C2F-A0CF-3C209333C14E} = {9CFF8CD7-2302-4E60-8D2D-AB707F33E1A1}
+		{67764976-C306-47A2-A88E-7243B4569E68} = {9CFF8CD7-2302-4E60-8D2D-AB707F33E1A1}
+		{E6098A8F-F318-488C-8C76-9A0EABDC6AFA} = {B1F61AAA-D128-4769-8717-304D46AB4D8D}
+		{B7B4BF74-CE69-451B-93D7-3876CC3DCA1D} = {7B7EB82F-9DD3-4083-AF50-9BF108BFE702}
+		{406ED1B0-E8E0-4F1C-B1AC-924E19F099E0} = {7B7EB82F-9DD3-4083-AF50-9BF108BFE702}
+	EndGlobalSection
+EndGlobal
