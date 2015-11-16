@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Database.Infrastructure</name>
+    </assembly>
+    <members>
+        <member name="T:Database.Infrastructure.DBConnectPool">
+            <summary>
+            create database connect pool
+            </summary>
+        </member>
+    </members>
+</doc>

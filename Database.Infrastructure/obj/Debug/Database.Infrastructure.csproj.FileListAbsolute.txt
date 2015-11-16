@@ -1,0 +1,6 @@
+J:\KeepFaith\Release\Database.Infrastructure.XML
+J:\KeepFaith\Release\Database.Infrastructure.dll
+J:\KeepFaith\Release\Database.Infrastructure.pdb
+J:\KeepFaith\Database.Infrastructure\obj\Debug\Database.Infrastructure.csprojResolveAssemblyReference.cache
+J:\KeepFaith\Database.Infrastructure\obj\Debug\Database.Infrastructure.dll
+J:\KeepFaith\Database.Infrastructure\obj\Debug\Database.Infrastructure.pdb

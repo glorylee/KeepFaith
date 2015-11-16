@@ -33,6 +33,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeepFaith", "KeepFaith\Keep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeepFaith.Tests", "KeepFaith.Tests\KeepFaith.Tests.csproj", "{406ED1B0-E8E0-4F1C-B1AC-924E19F099E0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Framework.Datas", "Framework.Datas", "{E1E0F9EB-EFCB-4443-8583-2FEEC4400B58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORM.Dapper", "ORM.Dapper\ORM.Dapper.csproj", "{5CB34BFA-871A-4397-91A2-758565895718}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database.Infrastructure", "Database.Infrastructure\Database.Infrastructure.csproj", "{9B96EAA8-6056-418F-A3B2-1D81B952E6D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{A58F4670-C28C-4112-8DD3-DF9219DF89D7}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +72,14 @@ Global
 		{406ED1B0-E8E0-4F1C-B1AC-924E19F099E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{406ED1B0-E8E0-4F1C-B1AC-924E19F099E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{406ED1B0-E8E0-4F1C-B1AC-924E19F099E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CB34BFA-871A-4397-91A2-758565895718}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB34BFA-871A-4397-91A2-758565895718}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB34BFA-871A-4397-91A2-758565895718}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB34BFA-871A-4397-91A2-758565895718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B96EAA8-6056-418F-A3B2-1D81B952E6D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B96EAA8-6056-418F-A3B2-1D81B952E6D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B96EAA8-6056-418F-A3B2-1D81B952E6D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B96EAA8-6056-418F-A3B2-1D81B952E6D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -69,5 +90,8 @@ Global
 		{E6098A8F-F318-488C-8C76-9A0EABDC6AFA} = {B1F61AAA-D128-4769-8717-304D46AB4D8D}
 		{B7B4BF74-CE69-451B-93D7-3876CC3DCA1D} = {7B7EB82F-9DD3-4083-AF50-9BF108BFE702}
 		{406ED1B0-E8E0-4F1C-B1AC-924E19F099E0} = {7B7EB82F-9DD3-4083-AF50-9BF108BFE702}
+		{E1E0F9EB-EFCB-4443-8583-2FEEC4400B58} = {A36CE620-5A34-4D1A-A9FD-342DE247861E}
+		{5CB34BFA-871A-4397-91A2-758565895718} = {E1E0F9EB-EFCB-4443-8583-2FEEC4400B58}
+		{9B96EAA8-6056-418F-A3B2-1D81B952E6D5} = {E1E0F9EB-EFCB-4443-8583-2FEEC4400B58}
 	EndGlobalSection
 EndGlobal
